@@ -1,0 +1,17 @@
+body {
+  background-color: grey;
+}
+
+#topline {
+  background-color: blue;
+  text-align: center;
+  color: tan;
+}
+
+#pressme {
+  float: left;
+}
+
+#searchme {
+  float: right;
+}
